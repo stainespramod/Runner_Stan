@@ -1,0 +1,1 @@
+alarm[0] = 360; // schedules alarm[0] event after 6 seconds

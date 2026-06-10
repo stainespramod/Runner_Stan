@@ -1,0 +1,1 @@
+room_goto_next(); //moves to the next room when the player collides with flag

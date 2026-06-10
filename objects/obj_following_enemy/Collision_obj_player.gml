@@ -1,0 +1,1 @@
+room_restart(); //restarts the level if player collides with enemy

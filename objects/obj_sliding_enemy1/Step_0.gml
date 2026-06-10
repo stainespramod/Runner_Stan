@@ -1,0 +1,11 @@
+if(y<=0) dir *= -1;
+if(y>=768) dir *= -1;
+//switches direction at the edges of the room
+
+if(move_speed<13) move_speed += 0.03; 
+move_and_collide(0, move_speed*dir);
+
+with(all){
+	pmove_speed = 4; //sets the player speed variable to 4
+	emove_speed = 2; //sets the following_enemy speed variable to 2
+}

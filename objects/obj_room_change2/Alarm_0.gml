@@ -1,0 +1,1 @@
+room_goto_next(); //goes to the next room 6 seconds after this room opens
