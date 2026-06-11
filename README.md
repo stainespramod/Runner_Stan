@@ -1,5 +1,5 @@
 # Runner Stan 🎮
-A 2D game built using GameMaker Studio where the player must navigate a series of mazes while being chased by an enemy.
+A 2D game built using GameMaker Studio where the player must navigate a series of mazes while being chased by an enemy. I made this for my CS1101 project in my first semester at IIT Patna.
 
 ## 🔗 Play the Game
 [Play Runner Stan](https://gx.games/games/icr0uo/cs1101-runner-stan/tracks/d15451b5-e752-4fad-a8aa-2655f9c2fddd/)
